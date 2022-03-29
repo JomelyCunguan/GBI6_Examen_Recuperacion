@@ -14,7 +14,6 @@ output:
       smooth_scroll: yes
 ---
 
-![](./img/ikiam.png)
 
 **Bienvenidos al examen final de GBI6 - Bioinformática. **
 
@@ -80,7 +79,7 @@ library(ggpubr)
 
 ### Exploración
 ```{r exploracion}
-get(wd) ## observamos en el directorio donde nos encontramos. 
+getwd() ## observamos en el directorio donde nos encontramos. 
 
 ## ubicamos en el directorio que creamos la carpeta donde estara la data y el archivo .rmd 
 
@@ -294,12 +293,6 @@ En la figura 1 se mide la melanization humoral de machos y hembras. Se observa e
 En la figura 1b se mostro que el estado de conververgancia armonica de los padres afecto la respuesta de la melanización. Sin embargo, fue mas evidente en el caso de la descendencia masculina. Se evidenciaron dos casos particulares que presentaron diferencias dependiendo de la convergencia de la progenie. Los machos provenientes de parejas parentales con estatus convergido con exito tenian menor probablidad de melanizar los huevos (51% sin melanizar) en relación con los machos de padres que no convergían (40% sin melanizar). El segundo caso fue que los machos provenientes de parejas con estatus no convergido tenian mayor probabilidad de melanizar los huevos (31%) en relación con los machos de padres que convergían (19%). 
 Finalmente, en el caso de la descendencia femeninda, no se observo algun efecto significativo del estado de convergencia de los padres en respuesta de la melanización. 
 
-## Male, converged, n= 173, 51% Not; 30% Partial; 19% Fully 
-## Male, not converged, n = 130, 40% Not; 29% Partial; 31% Fully 
-
-## Female, converged, n = 280, 21% Not; 39% Partial; 40% Fully  
-## Female, not converged, n = 221,  19% Not; 38% Partial ; 43% Fully 
-### Guardar la figura 1
 
 Guarde la figura 1 como un archivo .jpg, con una reoslución de 300 dpi. 
 ```{r guardar_figura}
@@ -317,11 +310,18 @@ Utilice git para guardar la figura y su cuaderno .Rmd en GitHub.
 
 Inserte aquí la captura de pantalla de las instrucciones realizadas en el terminal (Git Bash)
 
-![](./img/ikiam.png)
+<img src="version_git/captura_1.PNG" width=600 height=450 />
+
+
+<img src="version_git/captura_2.PNG" width=600 height=450 />
+
+
+<img src="version_git/captura_3.PNG" width=600 height=450 />
+
 
 
 Inserte aquí el enlace donde se encuentra la figura y el cuaderno .Rmd en GitHub. 
 
-
+https://github.com/JomelyCunguan/GBI6_Examen_Recuperacion 
 
 [enlace de la tarea](https://www.github.com)
