@@ -12,7 +12,9 @@
 * ***Fabricante***: Intel Corp.
 * ***ID físico***: 8
 
-# Paquetes utilizados 
+# Software y paquetería 
+* **R 4.1.3 versión para Windows**
+Librerías o paquetería:
 * readr 
 * tidyr 
 * dplyr 
