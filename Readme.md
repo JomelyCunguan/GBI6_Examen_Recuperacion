@@ -1,3 +1,5 @@
+![logo u](https://user-images.githubusercontent.com/94874288/160934090-52060fdf-4333-4059-b454-b376fea8a032.png)
+
 # Datos Personales 
 * ***Nombre***: Jomely Estefania Cunguan Morillo
 * ***Correo Institucional***: jomely.cunguan@est.ikiam.edu.ec 
