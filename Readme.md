@@ -25,5 +25,5 @@ En el primer conjunto de datos (Del artículo: Figura 1, tablas complementarias 
 
 # Bibliografía
 
-Reitmayer, C.M., Pathak, A.K., Harrington, L.C. et al. (2021). Sex, age, and parental harmonic convergence behavior affect the immune performance of Aedes aegypti 
-offspring. Commun Biol 4, 723. https://doi.org/10.1038/s42003-021-02236-5
+Reitmayer, C. M., Pathak, A. K., Harrington, L. C., Brindley, M. A., Cator, L. J., & Murdock, C. C. (2021). Sex, age, and parental harmonic convergence behavior affect 
+the immune performance of Aedes aegypti offspring. Communications biology, 4(1), 1-10. https://doi.org/10.1038/s42003-021-02236-5
